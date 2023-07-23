@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">EquationMaster</string>
+    <string name="app_name">Equation Master</string>
+    <string name="history">History</string>
+    <string name="loading">Evaluating...</string>
+    <string name="evaluate">Evaluate</string>
+    <string name="try_again">Try Again</string>
+    <string name="error_empty_field">Please enter at least one equation</string>
+    <string name="note">Note:
+    \n- Please enter valid math equations.
+    \n- Number must contains less than 99999.
+    \n- If you want to evaluate multiple equations then separate it by \",\"(Comma). So an equation must not contains \",\"(Comma).</string>
 </resources>
